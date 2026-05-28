@@ -119,6 +119,7 @@ Together, these projects showcase the ability to handle millions of rows of data
 | **Deliverables** | Household & product insights, anomaly detection | Time‑series trends, demographic pivot tables, Excel/CSV exports |
 | **Business Value** | Identifies high‑value households & products | Assesses customer demographics, future spending potential |
 
+---
 
 ## 🛠️ Tools & Libraries
 - **Python 3.13**  
@@ -128,7 +129,4 @@ Together, these projects showcase the ability to handle millions of rows of data
 
 ---
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone git@github.com:Egitto-Data/pandas-data-analysis-visualization-P1.git
+
